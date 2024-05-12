@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello,Blog!"
+title: "Hello, Blog!"
 description: "This is first post for my github blog."
 date: 2024-05-12
 feature_image: images/HelloWorld.png 
