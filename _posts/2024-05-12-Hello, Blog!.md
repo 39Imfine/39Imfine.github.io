@@ -1,18 +1,15 @@
 ---
 layout: post
-title: "Hello, Blog!"
+title: "Hello,Blog!"
 description: "This is first post for my github blog."
 date: 2024-05-12
 feature_image: images/HelloWorld.png 
-tags: [normal]
+tags: [blog]
 ---
 
-Blah Blah Blah.
-한국어 테스트
-Blah Blah Blah.
+이 블로그의 첫 포스팅입니다.
 
 <!--more-->
 
 ## Hi Hi Hi!
-
-Huhu...
+잘 부탁드려요!
