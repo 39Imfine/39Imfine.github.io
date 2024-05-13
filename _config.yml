@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "My_Blog"
+title: "아무거나 막 해보는 사람의 Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "My Github blog."
+description: "아무거나 막 해봅니다."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -36,8 +36,6 @@ navigation:
     url: /style-guide
   - text: Tags
     url: /tags
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: https-39imfine-github-io
