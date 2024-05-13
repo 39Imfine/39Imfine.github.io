@@ -4,7 +4,7 @@ title: "오늘의 Github blog 진척사항"
 description: "Github blog 1일차"
 date: 2024-05-12
 feature_image: images/HelloWorld.png 
-tags: [blog]
+tags: [Blog]
 ---
 
 Github blog 1일차의 기록
