@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: Tags
+title: Infotmation
 description: A tags page for Scriptor Jekyll theme
 ---
 
