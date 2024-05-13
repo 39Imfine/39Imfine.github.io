@@ -2,7 +2,7 @@
 layout: post
 title: "Graphic Designer On The Road"
 description: "A graphic designer is a professional within the graphic design and graphic arts industry."
-date: 2024-05-12
+date: 2019-05-12
 feature_image: images/road.jpg
 tags: [tips, work]
 ---
