@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Card Shark 리뷰"
-description: "훌륭한 게임"
+title: "Timberborn 리뷰"
+description: "아직 게임 플레이 중"
 date: 2024-05-14
-feature_image: images/desk.jpg 
+feature_image: images/timberborn.jpg 
 tags: [Game Review]
 ---
 
-A work at home parent is an entrepreneur who works from home and integrates parenting into his or her business activities. They are sometimes referred to as a WAHM *(work at home mom)* or a WAHD *(work at home dad)*.
-
-Entrepreneurs choose to run businesses from home for a variety of reasons, including lower business expenses, personal health limitations, eliminating commuting, or in order to have a more flexible schedule. This flexibility can give an entrepreneur more options when planning tasks, business and non-business, including parenting duties. While some home-based entrepreneurs opt for childcare outside the home,[1] others integrate child rearing into their work day and workspace. The latter are considered work-at-home parents.
+아직 플레이 중인 게임입니다.
 
 <!--more-->
 
