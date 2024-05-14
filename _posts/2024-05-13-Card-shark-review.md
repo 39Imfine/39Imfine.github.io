@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Advantages & Disadvantages of Working from Home"
-description: "A work at home parent is an entrepreneur who works from home and integrates parenting into his or her business activities."
-date: 2024-05-13
+title: "Card Shark 리뷰"
+description: "훌륭한 게임"
+date: 2024-05-14
 feature_image: images/desk.jpg 
 tags: [Game Review]
 ---
