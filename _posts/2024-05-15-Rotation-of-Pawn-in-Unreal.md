@@ -15,10 +15,10 @@ tags: [Tips, Unreal engine]
 
 ## 보는 방향이 바뀐다고 해서 Pawn의 Roation이 바뀌는 것이 아니다.
 게임을 시작한 직후의 Pawn의 Transform이 다음과 같다고 하자.
-![alt text](UnrealPawnRotation1.png)   
+![alt text](UnrealPawnRotation1.jpg)   
 
 그리고 마우스를 움직여 Pawn이 다른 방향을 바라보게 만든 다음 다시 Transform을 보자. Rotation에 변화가 있었을까?
-![alt text](UnrealPawnRotation1-2.png)   
+![alt text](UnrealPawnRotation1-2.jpg)   
 
 그렇다. **Pawn의 바라보는 방향이 바뀌어도 Pawn의 Rotation이 바뀌는 것은 아니다.**
 
