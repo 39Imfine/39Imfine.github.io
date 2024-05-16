@@ -18,7 +18,7 @@ tags: [Tips, Unreal engine]
 ![alt text](images/UnrealPawnRotation1.png)   
 
 그리고 마우스를 움직여 Pawn이 다른 방향을 바라보게 만든 다음 다시 Transform을 보자. Rotation에 변화가 있었을까?
-![alt text](images/UnrealPawnRotation1-2.png)  
+![alt text](images/UnrealPawnRotation2.png)  
 
 그렇다. **Pawn의 바라보는 방향이 바뀌어도 Pawn의 Rotation이 바뀌는 것은 아니다.**
 
