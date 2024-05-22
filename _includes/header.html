@@ -8,7 +8,6 @@
     <div class="site-navigation-wrap">
       <h2 class="screen-reader-text">Main navigation</h2>
       <ul class="menu">
-        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2F39imfine.github.io&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23B9B9B9&title=Today&edge_flat=true"/></a>
         {% for item in site.navigation %}
         {% assign current = nil %}
         {% if page.url == item.url %}
@@ -18,6 +17,8 @@
           <a class="{{ current }}" href="{{ item.url }}">{{ item.text }}</a>
          </li>
         {% endfor %}
+        <br>
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2F39imfine.github.io&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23B9B9B9&title=Today&edge_flat=true"/></a>
       </ul><!-- .menu -->
       <button id="menu-close" class="menu-toggle"><span class="screen-reader-text">Close Menu</span><span
           class="icon-close" aria-hidden="true"></span></button>
